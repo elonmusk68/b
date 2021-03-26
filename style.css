@@ -1,0 +1,48 @@
+body{
+  text-align: center;
+background: linear-gradient(#26f1ff 0%, #27ae60 100%);
+  background-repeat: no-repeat;
+}
+h1 {
+  text-shadow: 2px 2px  #0f4363;
+}
+p1 {
+  color:red;
+}
+.img {
+ height:200px;
+ border-radius:50%;
+ width:200px;
+}
+section{
+  text-align:center;
+  
+
+}
+
+.main {
+list-style:none;
+font-family: sans-serif;
+position: fixed;
+top:0px;
+left:400px;
+cursor:pointer;
+text-align: center;
+z-index:10;
+background-color:gray;
+}
+.links{
+float:right;
+color:crimson;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 9px;
+font-family:sans-serif;
+font-size: 20px;
+}.links:hover { background-color:brown;
+font-size: 25px}
+a {
+    text-decoration:none;
+    color:crimson;
+}
+#shonenvoiceactors
